@@ -1,6 +1,6 @@
 <div align='center'>
-  <img height="150px" width="150px" src="https://github.com/jimzers/jimzers/pics/wave_emoji.gif">
-  <img height="150px" width="150px" src="https://github.com/jimzers/jimzers/pics/wise-pug-thinking-about-the-world.jpg">
+  <img height="150px" width="150px" src="https://raw.githubusercontent.com/jimzers/jimzers/master/pics/wave_emoji.gif">
+  <img height="150px" width="225px" src="https://raw.githubusercontent.com/jimzers/jimzers/master/pics/wise-pug-thinking-about-the-world.jpg">
 </div>
 
 ## 🐕 Welcome to my profile!
