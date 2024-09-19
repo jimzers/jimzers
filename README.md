@@ -14,4 +14,4 @@ Hey there! I'm a huge fan of deep learning, especially in the fields of reinforc
 * [__💵 How to make a million dollars in a week__](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## :link: Important links
-[__Linkedin__](https://www.linkedin.com/in/adam-lee-ucsd/) • [__Website__](https://adamlee.me) • [__Twitter__](https://twitter.com/jimzersML) • [__Devpost__](https://devpost.com/jimzers) • [__Email__](mailto:jimzersml@gmail.com)
+[__Linkedin__](https://www.linkedin.com/in/jimzers/) • [__Website__](https://adamlee.me) • [__Twitter__](https://twitter.com/jimzersML) • [__Devpost__](https://devpost.com/jimzers) • [__Email__](mailto:jimzersml@gmail.com)
